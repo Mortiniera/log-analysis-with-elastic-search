@@ -4,8 +4,10 @@ Analyse application logs using Elastic Search and visualize them on a Kibana Das
 
 # Visualize, search and analyse logs on Elastic Search
 
+<p>
 <img src="../main/images/elastic_search_logs.png" width="48%">
 <img src="../main/images/searching_errors_es.png" width="48%">
+</p>
 
 
 # Kibana Dashboard
