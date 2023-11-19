@@ -1,4 +1,4 @@
-# log-analysis-with-elastic-search
+# Log Analysis with Elastic Search
 Analyse application logs using Elastic Search and visualize them on a Kibana Dashboard
 
 
